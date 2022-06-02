@@ -19,13 +19,13 @@
 # in the templates via {{ site.myvariable }}.
 
 title: ConsistentIT Solutions
-email: consistentitsolutions@gmail.com
+email: info@consistentit.au
 description: >- # this means to ignore newlines until "baseurl:"
   One stop shop for all your IT Solution needs from building APIs to building platform. We provide tailor made solutions at affordable rates.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://www.consistentit.com"
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "https://www.consistentit.au"
+twitter_username: developer-consistentit
+github_username:  developer-consistentit
 
 # Build settings
 theme: minima
